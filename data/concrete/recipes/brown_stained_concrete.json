@@ -1,0 +1,36 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "#I#",
+        "###"
+    ],
+    "key": {
+        "#": [
+            {"item": "white_concrete"},
+            {"item": "orange_concrete"},
+            {"item": "magenta_concrete"},
+            {"item": "light_blue_concrete"},
+            {"item": "yellow_concrete"},
+            {"item": "lime_concrete"},
+            {"item": "pink_concrete"},
+            {"item": "gray_concrete"},
+            {"item": "light_gray_concrete"},
+            {"item": "cyan_concrete"},
+            {"item": "purple_concrete"},
+            {"item": "blue_concrete"},
+            {"item": "brown_concrete"},
+            {"item": "green_concrete"},
+            {"item": "red_concrete"},
+            {"item": "black_concrete"}
+        ],
+        "I": {
+            "item": "minecraft:cocoa_beans"
+        }
+    },
+    "result": {
+        "item": "minecraft:brown_concrete",
+        "count": 8
+    },
+    "group": "concrete"
+}
