@@ -10,7 +10,7 @@
         }
     },
     "result": {
-        "item": "minecraft:nether_brick",
+        "item": "minecraft:nether_bricks",
         "count": 1
     },
     "group": "slab_to_blocks"

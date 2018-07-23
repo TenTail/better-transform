@@ -7,12 +7,12 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:purpur_block"
+            "item": "minecraft:acacia_planks"
         }
     },
     "result": {
-        "item": "minecraft:purpur_stairs",
+        "item": "minecraft:acacia_stairs",
         "count": 6
     },
-    "group": "stairs"
+    "group": "more_stairs"
 }

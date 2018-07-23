@@ -7,12 +7,12 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:nether_brick"
+            "item": "minecraft:purpur_block"
         }
     },
     "result": {
-        "item": "minecraft:nether_brick_stairs",
+        "item": "minecraft:purpur_stairs",
         "count": 6
     },
-    "group": "stairs"
+    "group": "more_stairs"
 }

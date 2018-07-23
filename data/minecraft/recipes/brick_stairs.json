@@ -7,12 +7,12 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:prismarine"
+            "item": "minecraft:bricks"
         }
     },
     "result": {
-        "item": "minecraft:prismarine_stairs",
+        "item": "minecraft:brick_stairs",
         "count": 6
     },
-    "group": "stairs"
+    "group": "more_stairs"
 }
